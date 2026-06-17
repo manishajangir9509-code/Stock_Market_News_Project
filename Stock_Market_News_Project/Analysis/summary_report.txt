@@ -1,0 +1,19 @@
+STOCK MARKET SENTIMENT ANALYSIS REPORT
+============================================================
+
+Total News: 11
+Average Score: -0.018
+
+Sentiment Counts:
+Sentiment
+Neutral     6
+Negative    3
+Positive    2
+
+Sector Counts:
+sector
+General Finance         6
+Technology / EV         2
+Finance                 1
+Investment / Finance    1
+Retail                  1

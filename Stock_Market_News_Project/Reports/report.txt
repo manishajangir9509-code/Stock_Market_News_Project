@@ -1,0 +1,91 @@
+STOCK MARKET SENTIMENT REPORT
+================================================================================
+
+Headline  : U.S. markets open in 5h 22m
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Markets
+Score     : 0.0
+Sector    : Finance
+Sentiment : Neutral
+--------------------------------------------------------------------------------
+Headline  : Elon Musk warns America will ‘1,000%’ go bankrupt. Now he’s the world’s 1st trillionaire
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Elon Musk
+Score     : 0.0
+Sector    : Technology / EV
+Sentiment : Neutral
+--------------------------------------------------------------------------------
+Headline  : Elon Musk's $1 trillion fortune is so vast that Jeff Bezos is now closer in wealth to the average American
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Elon Musk
+Score     : -0.05
+Sector    : Technology / EV
+Sentiment : Negative
+--------------------------------------------------------------------------------
+Headline  : The Retiree Who Chose $65,000 Instead of $120,000 and Ended Up Richer
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Unknown
+Score     : 0.0
+Sector    : General Finance
+Sentiment : Neutral
+--------------------------------------------------------------------------------
+Headline  : 3 High-Yield Dividend Stocks to Buy Hand Over Fist in June
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Dividend
+Score     : 0.0
+Sector    : Investment / Finance
+Sentiment : Neutral
+--------------------------------------------------------------------------------
+Headline  : Kiyosaki warns Americans are victims of a ‘slow, invisible heist’ they won’t notice until too late. Protect yourself now
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Unknown
+Score     : -0.3
+Sector    : General Finance
+Sentiment : Negative
+--------------------------------------------------------------------------------
+Headline  : Costco’s dominance shows why its Pensacola debut matters
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Costco
+Score     : 0.0
+Sector    : Retail
+Sentiment : Neutral
+--------------------------------------------------------------------------------
+Headline  : ‘It sounds like crazy’: Dave Ramsey warns not to sacrifice retirement for tithing. Build your wealth and give generously
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Unknown
+Score     : -0.6
+Sector    : General Finance
+Sentiment : Negative
+--------------------------------------------------------------------------------
+Headline  : The S&P 500 Is Doing Something Unseen in More Than 100 Years -- Here's What History Says Happens Next
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Unknown
+Score     : 0.25
+Sector    : General Finance
+Sentiment : Positive
+--------------------------------------------------------------------------------
+Headline  : Market Correction Ahead: Warren Buffett's Historical Warning for Investors
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Unknown
+Score     : 0.0
+Sector    : General Finance
+Sentiment : Neutral
+--------------------------------------------------------------------------------
+Headline  : Dave Ramsey says most millionaires just copied the guy in the next cubicle — not debating the perfect portfolio
+Date      : 2026-06-16
+Source    : Yahoo Finance
+Company   : Unknown
+Score     : 0.5
+Sector    : General Finance
+Sentiment : Positive
+--------------------------------------------------------------------------------
